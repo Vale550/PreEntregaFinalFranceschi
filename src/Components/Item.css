@@ -1,0 +1,25 @@
+.imgcss {
+    width: 100%;
+    height: 100%;
+    float: left;
+    float: top;
+  }
+  .h2css {
+    width: 100%;
+    height: 5%;
+    float: left;
+    float: top;
+  }
+  .buttoncss {
+    width: 100%;
+    height: 30px;
+    float: left;
+    float: top;
+  }
+  .divcss {
+    width: 200px;
+    height: 150px;
+    float: top;
+    float: left;
+  }
+

@@ -1,0 +1,17 @@
+.btn {
+    margin-top: 2%;
+    margin-left: 40%;
+    float: left;
+    float: top;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(232, 37, 37);
+}
+.btn2 {
+    margin-top: 2%;
+    float: left;
+    float: top;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(52, 226, 52);
+}

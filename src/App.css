@@ -1,0 +1,9 @@
+.Item_div_css {
+  margin-top: 5%;
+  background-color: #C7C7C7 ;
+  width: 100%;
+  height: 300px;
+  overflow-x: auto;
+  margin: 0;
+  padding: 0;
+}

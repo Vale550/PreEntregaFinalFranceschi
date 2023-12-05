@@ -1,0 +1,14 @@
+{
+  "Nuevos": [
+    {"Nombre": "Iphone 12", "img": "iphone_12.jpg", "precio": 2000, "id":1},
+    {"Nombre": "Galaxy A33", "img": "galaxy_a33.jpg" , "precio": 3000, "id":2}
+  ],
+  "usados": [
+    {"Nombre": "Galaxy S", "img": "galaxy_s.jpg", "precio": 4000, "id":3},
+    {"Nombre": "Iphone 13", "img": "iphone_13.jpg" , "precio": 5000, "id":4}
+  ],
+  "Mas_vendidos": [
+    {"Nombre": "Galaxy S", "img": "galaxy_s.jpg", "precio": 4000, "id":5},
+    {"Nombre": "Galaxy A33", "img": "galaxy_a33.jpg" , "precio": 3000, "id":6}
+  ]
+}
